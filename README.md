@@ -6,7 +6,7 @@ ujung jari pada sensor MAX30102, detak jantung (BPM) dan kadar oksigen darah
 (SpO2) langsung tampil di LCD — dan begitu detak keluar dari rentang normal,
 buzzer berbunyi dan LED merah menyala.
 
-Video Short (60 detik): link menyusul setelah upload
+Video Short (60 detik): https://www.youtube.com/shorts/o0X1ckwLcsg
 
 ## Cara kerja
 
